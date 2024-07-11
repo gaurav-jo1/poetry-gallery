@@ -2,12 +2,14 @@ import React from "react";
 
 import "./PoetryShowcase.scss"
 
+import poetry_1 from "./poetry/poetry_1.png"
+import poetry_2 from "./poetry/poetry_2.png"
+import poetry_3 from "./poetry/poetry_3.png"
 const PoetryShowcase: React.FC = () => {
   const poetryImages = [
-    "./poetry/poetry_1.png",
-    "./poetry/Girl I Met.png",
-    "./poetry/Beautiful.png",
-    "./poetry/20240711_084039.jpg",
+    poetry_1,
+    poetry_2,
+    poetry_3,
   ];
 
   return (
