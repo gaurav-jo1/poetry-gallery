@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+
+  .App-header {
+    padding: 50px 0px;
+
+    h1 {
+      font-family: "Oswald", sans-serif;
+      font-size: 36px;
+    }
+
+    p {
+      color: rgb(88, 88, 88);
+      font-size: 18px;
+    }
+  }
+
+  main {
+    padding: 20px;
+  }
+}
