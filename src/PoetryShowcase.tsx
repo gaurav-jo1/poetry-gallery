@@ -4,10 +4,10 @@ import "./PoetryShowcase.scss"
 
 const PoetryShowcase: React.FC = () => {
   const poetryImages = [
-    "./assets/poetry_1.png",
-    "./assets/Girl I Met.png",
-    "./assets/Beautiful.png",
-    "./assets/20240711_084039.jpg",
+    "./poetry/poetry_1.png",
+    "./poetry/Girl I Met.png",
+    "./poetry/Beautiful.png",
+    "./poetry/20240711_084039.jpg",
   ];
 
   return (
