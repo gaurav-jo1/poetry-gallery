@@ -8,6 +8,7 @@ import poetry_3 from "./poetry/poetry_3.png"
 import poetry_4 from "./poetry/Copy of Only girl I desire.png"
 import poetry_5 from "./poetry/It's not erased .png"
 import poetry_6 from "./poetry/Girl I Met.png"
+import poetry_7 from "./poetry/Afterlife .png"
 
 const PoetryShowcase: React.FC = () => {
   const poetryImages = [
@@ -17,6 +18,7 @@ const PoetryShowcase: React.FC = () => {
     poetry_4,
     poetry_5,
     poetry_6,
+    poetry_7
   ];
 
   return (
