@@ -9,7 +9,7 @@ import poetry_4 from "./poetry/Copy of Only girl I desire.png"
 import poetry_5 from "./poetry/It's not erased .png"
 import poetry_6 from "./poetry/Girl I Met.png"
 import poetry_7 from "./poetry/Afterlife .png"
-import poetry_8 from "./poetry/Letter_July_18.png"
+import poetry_8 from "./poetry/letter_2.png"
 
 const PoetryShowcase: React.FC = () => {
   const poetryImages = [
